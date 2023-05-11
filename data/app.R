@@ -46,7 +46,7 @@ library(httr)
 # TODO:
 # - download grids (*.tif), time series (*.csv)
 
-sanctuaries           <- list()#nms
+sanctuaries           <- list()
 
 sanctuaries$mpa_azores <- "Parque Marinho dos Açores"
 
